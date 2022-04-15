@@ -109,10 +109,16 @@ t = SMS()
 def loop(num):
     for i in range(num):
         t.spamais(numbers)
+def loopp(num):
     for i in range(num):
         t.spamaiss(numbers)
+def looppp(num):
     for i in range(num):
         t.spamaissss(numbers)
+def loopppp(num):
     for i in range(num):
         t.spamaissdd(numbers)
 loop(num)
+loopp(num)
+looppp(num)
+loopppp(num)
